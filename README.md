@@ -7,3 +7,6 @@ Run on cmd -
 
 >>>python setup.py bdist_wheel
 >>>pip install -e.
+
+after published and installed - Reccomended to use with the suiting GUI - GUICollage.py! 
+This way you can choose images directly from you computer folder's and create a beautifull collage :)
